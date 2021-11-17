@@ -79,3 +79,34 @@ p {
   margin-top: 0;
   margin-botton: 1 rem;
 }
+
+/*estilos de menu*/
+.navbar{
+  background-color:   #102b59  ;
+  color: white;
+}
+
+.nav-link{
+  color: white;
+}
+
+/*footer */
+.footer{
+  background-color:   #102b59  ;
+  color: white;
+}
+/*listas */
+.list>ul>li{
+  font-size: 30px;
+  
+  text-decoration: none;
+}
+
+/*imagen de inicio*/
+.imagen img{
+  border:none;
+  padding:0;
+  margin:0;
+  width:100%;
+  height:auto;
+}
